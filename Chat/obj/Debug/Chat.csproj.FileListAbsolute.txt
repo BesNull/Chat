@@ -1,0 +1,6 @@
+C:\Users\GoodPC\Desktop\Unich Mazatrucka v6441\4 kurs 2 sem\Производственная практика\Chat\Chat\bin\Debug\Chat.dll.config
+C:\Users\GoodPC\Desktop\Unich Mazatrucka v6441\4 kurs 2 sem\Производственная практика\Chat\Chat\bin\Debug\Chat.dll
+C:\Users\GoodPC\Desktop\Unich Mazatrucka v6441\4 kurs 2 sem\Производственная практика\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\GoodPC\Desktop\Unich Mazatrucka v6441\4 kurs 2 sem\Производственная практика\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\GoodPC\Desktop\Unich Mazatrucka v6441\4 kurs 2 sem\Производственная практика\Chat\Chat\obj\Debug\Chat.dll
+C:\Users\GoodPC\Desktop\Unich Mazatrucka v6441\4 kurs 2 sem\Производственная практика\Chat\Chat\obj\Debug\Chat.pdb
